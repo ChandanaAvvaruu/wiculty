@@ -2,8 +2,11 @@ public static void mai
 njskdfnjrg
 vfdsgfdbf
 vfdbfgbgf
-vgdfbgfnfgn
-n
+vgdfbgf
 
+public static void main()
 
-:
+{
+  println
+}
+
